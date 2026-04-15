@@ -8,7 +8,7 @@ Galgotias University — BCA in Artificial Intelligence & Machine Learning	2024 
 GPA: 9.08 / 10  ·  First Year, Second Semester
 EXPERIENCE
 
-#WishStack	2024
+## WishStack	2024
 Solo Founder	Scroll-based startup discovery platform · 5,000 users · ~50 paying customers
 ▸	Built and launched a mobile-first, Instagram-style web app for founders to scroll through and discover new startups and side projects.
 ▸	Enabled idea validation at scale — founders post projects and collect real signal from 5,000 active users within 6 months of launch.
@@ -23,7 +23,7 @@ Solo Founder	AI-powered Shopify debugging tool · 100 waitlist signups · 10 pay
 ▸	Launched on a pay-per-use model; secured 100 waitlist signups and 10 paying customers before further development.
 ▸	Tech: TypeScript · React · Python · testRigor API · Vercel · Railway
 
-#ChatMed AI	Jan 2025 – Present
+## ChatMed AI	Jan 2025 – Present
 Co-Founder & CTO / Lead Backend Developer	chatmed.site
 ▸	Architected and shipped the entire backend solo for an AI-powered medical assistant platform from the ground up.
 ▸	Built a high-performance REST API with rate limiting via SlowAPI; managed async workloads through Uvicorn for low-latency responses.
@@ -32,7 +32,7 @@ Co-Founder & CTO / Lead Backend Developer	chatmed.site
 ▸	Deployed on GCP & Railway with a Redis caching layer to handle concurrent users efficiently.
 ▸	Tech: Python · FastAPI · SlowAPI · Redis · MongoDB · GCP · Railway · Uvicorn · Deepgram · OpenAI · ElevenLabs
 
-#DAXA AI	Mar 2025 – Present
+## DAXA AI	Mar 2025 – Present
 Co-Founder & CTO / Lead Backend Developer	Europe-based B2B SaaS · Early Stage
 ▸	Building an AI receptionist platform automating inbound/outbound calls, follow-ups and query resolution for dentists, real estate agencies and law firms across Europe.
 ▸	Engineered the full backend: call routing, real-time conversation state management, and webhook integrations with Twilio telephony.
